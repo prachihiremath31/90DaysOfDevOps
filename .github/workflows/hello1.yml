@@ -9,7 +9,7 @@ on:
 # these are jobs inside the workflow
 jobs:
 
-  #FIRST JOB this is the name of the job
+# FIRST JOB this is the name of the job
   greet:
     # this is github runner, each job runs on a runner
     runs-on: ubuntu-latest
@@ -20,7 +20,7 @@ jobs:
       - name: say hello to username
         run: echo "Hello $USER"
 
-    #SECOND JOB
+    # SECOND JOB
     details:
 
       runs-on: ubuntu-latest
