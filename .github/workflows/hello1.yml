@@ -4,7 +4,7 @@ name: Hello
 # runs on a trigger
 on: 
   push:
-    branches: [main]
+    branches: [master]
 
 # these are jobs inside the workflow
 jobs:
