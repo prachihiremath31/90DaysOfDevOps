@@ -7,4 +7,11 @@ Hobbies:
     -Dancing
     -painting
     -Workouts
-    
+
+Experience:
+    Devops:
+        {    
+            Linux: 2,
+            Docker: 1,
+            Kubernates: 1
+        }
