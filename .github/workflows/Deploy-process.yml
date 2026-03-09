@@ -1,5 +1,5 @@
 # This is the name of the workflow that will be displayed in the Actions Tab
-name: CICD
+name: CICD- Recent
 
 #manually click workflow whenever user needs
 on:
