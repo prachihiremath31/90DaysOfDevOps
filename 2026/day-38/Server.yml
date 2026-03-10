@@ -1,0 +1,10 @@
+name: Server Details
+server:  [name,ip,port]
+database: [host, name, credentials]
+credentials: [username,password]
+
+server:
+  startup_script: >
+    echo "Starting server..."
+    echo "It will start in short time"
+  
