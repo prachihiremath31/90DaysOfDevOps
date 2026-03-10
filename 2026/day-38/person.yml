@@ -2,11 +2,7 @@ name: Prachi
 Location: Pune
 Education: MCS
 
-Hobbies:
-    -Reading
-    -Dancing
-    -painting
-    -Workouts
+Hobbies: [Reading,Dancing,painting,Workouts]
 
 Experience:
     Devops:
