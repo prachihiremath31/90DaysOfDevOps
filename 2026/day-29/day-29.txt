@@ -1,0 +1,4 @@
+To create a repo
+First step you need to create a directory
+second once git init is done empty repo is created
+third 3- Clone the git repo in which you want to make changes (Git Clone)
